@@ -1,0 +1,6 @@
+{
+	"Title": "Leçon 1",
+	"Description": "Aujourd'hui, vos premiers kana et vos premiers mots !",
+	"Chunks": ["Introduction Kana", "Kana A", "Kana KA", "Vocabulaire", "Grammaire"],
+	"Deps": ["Introduction"]
+}

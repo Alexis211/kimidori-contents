@@ -1,0 +1,6 @@
+{
+	"Title": "Introduction",
+	"Description": "Une introduction au Japonais, langue très différente du Français. Explications des différents systèmes d'écriture ; méthodologie.",
+	"Chunks": ["Pourquoi apprendre", "Ecriture", "Methode", "Prononciation"],
+	"Deps": []
+}

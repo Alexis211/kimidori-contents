@@ -1,0 +1,98 @@
+Les systèmes d'écriture du Japonais
+Nous allons voir qu'il existe trois systèmes d'écritures différents en Japonais : les
+hiragana, les katakana et les kanji, chacun utilisé dans des cas très précis.
+
+Il est important de comprendre comment ça fonctionne, pour que vous puissiez estimer le
+travail que vous aurez à accomplir.
+
+\slide:La bête noire : les rômaji
+Commençons par voir ce qu'il ne faut pas faire.
+
+On peut écrire le japonais avec notre alphabet. Mais il ne faut pas le faire, pour
+plusieurs raisons : d'une part, c'est très moche, et d'autre part, c'est une mauvaise
+habitude qu'il ne faut pas avoir quand on va se frotter à du vrai japonais.
+
+Pour vous convaincre que c'est moche, voici une phrase en rômaji :
+  *kesa, ringo to chokoreeto wo tabemashita.*~
+  /avouez que c'est plutôt moche  !/
+Et la même avec les autres écritures :
+  *今朝、りんごとチョコレートを食べました。*~
+  /Ce matin, j'ai mangé une pomme et du chocolat./
+
+De plus, il y a parfois plusieurs romanisations possibles pour un mot. Par exemples les
+voyelles longues peuvent être écrites /uu/, /û/ ou /u/ avec une barre dessus.
+
+\slide:Une écriture phonétique : les hiragana
+Les hiragana forment un système d'écriture phonétique permettant d'écrire les 106
+différentes syllabes que l'on pourra trouver en Japonais. Mais rassurez-vous, il n'y a en
+fait que 46 signes à apprendre, et les autres syllabes se forment à partir de ces signes
+ou de versions un peu modifiées.
+
+Les hiragana sont la première écriture que vous devez apprendre, car dès que possible nous
+allons nous passer totalement de rômaji : on s'en servira alors pour apprendre la
+prononciation des kanji.
+
+Cependant, ce n'est pas leur seul rôle : on en a toujours besoin pour écrire une partie
+des phrases au moins. Les hiragana servent à écrire les particules, les terminaisons des
+noms, adjectifs et verbes conjugués, ainsi que certains mots.
+
+\slide:Une autre, plus dure : les katakana
+Les katakana forment un autre syllabaire, fonctionnant *exactement* comme les hiragana,
+c'est à dire que c'est simplement une autre façon d'écrire les mêmes sons.
+Les katakana sont plus anciens, et sont un peu plus difficiles à lire. Ils se repèrent car
+ils ont des formes très angulaires, alors que les hiragana ont des formes plus rondes,
+plus fluides.
+
+Les katakana servent principalement à écrire les mots d'origine étrangère : vous trouverez
+en Japonais de nombreux mots anglais par exemple qui ont été phonétisés pour correspondre
+à la prononciation du Japonais, et qui seront écrits en katakana.
+
+Dans notre méthode, nous essaierons d'apprendre les katakana en parallèle avec les
+hiragana.
+
+\slide:Écrire du sens et non des mots : les kanji
+Les kanji, c'est là où l'on aura le plus de travail. Les kanji sont des caractères
+d'origine chinoise. Ils ne correspondent pas à une syllabe, où à une prononciation, mais à
+un sens : par exemple, le kanji 日 signifie jour ou soleil, indépendament de la façon
+de le lire.
+
+Comme les kanji sont d'origine chinoise, ils ont souvent plusieurs façons
+différentes d'êtres lus, et c'est là que tout se complique. Chaque kanji a en général une
+lecture d'origine chinoise unique, qui s'appelle on-yomi, et une ou plusieurs lectures
+japonaises, appellées kun-yomi. La façon de lire un kanji se déduit du contexte dans
+lequel il se trouve : c'est pour ça qu'il faudra apprendre d'une part les kanji seuls
+à partir de leur signification, puis ensuite apprendre des mots utilisant ces kanji.
+
+\slide:Comment tout ça s'assemble dans les phrases
+Tout cela vous parraîtera sans doute un peu compliqué si vous abordez l'écriture du
+Japonais pour la première fois. Voici donc une phrase d'exemple qui résume le tout :
+
+  *私は友達とニューヨークへ行きました。*~
+  /Je suis allé à New-York avec des amis./
+
+私 (watashi) est un kanji qui signifie /je/ ou /moi/.~
+は (ha, ici se prononce wa) est une particule (on verra ça plus tard), écrite en hiragana.~
+友達 (tomodachi) est un mot écrit en kanji qui signifie /ami/.~
+と (to) est aussi une particule, donc écrite en hiragana.~
+ニューヨーク (nyuu yooku) est la transcription phonétique de New-York, donc écrite en katakana.~
+へ (he, ici se prononce e) est une particule écrite en hiragana.
+
+Enfin, 行きました est un verbe conjugué : il s'écrit avec un kanji, 行 (se prononce /i/ ici), qui lui donne son
+sens : aller quelque part, suivi d'une terminaison en hiragana, きました (/kimashita/), qui indique la
+conjuguaison : ici il s'agit d'une forme polie passée.
+
+\slide:Pour les enfants : des furigana de partout
+Au début, vous serez comme des enfants. Mais des grands enfants.
+
+Pour les enfants ne connaissant pas encore la lecture des kanji, on trouve des textes munis
+de /furigana/, c'est à dire de hiragana se situant au-dessus des kanji et indiquant comment
+ils se lisent. Par exemple, la phrase précédente avec des furigana se présente ainsi :
+
+  *{私:わたし}は{友達:ともだち}とニューヨークへ{行:い}きました。*
+
+Nous-mêmes utiliserons un certain nombre de furigana dans nos cours, pour les mots que
+vous êtes en train d'étudier, ou qui ne sont pas de votre niveau. Vous pouvez les activer
+ou les désactiver dans vos préférences, mais même s'il sont cachés, vous pouvez les
+afficher en passant la souris sur le mot en question.
+Cependant, pour vous forcer à mémoriser les kanji, on essaiera de s'en passer dès que
+possible.

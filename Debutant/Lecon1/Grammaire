@@ -1,0 +1,121 @@
+Quelques notions de grammaire
+Nous allons étudier ici la structure basique des phrases en Japonais.
+
+\slide:Structure de la phrase minimale
+Pour ce cours, nous avons décidé de commencer par des phrases basiques, minimales même, et
+puis nous allons ensuite aller en compliquant petit à petit. Nous ne commencerons donc pas
+par la forme polie, comme le feront la plupart des méthodes : nous verrons ça plus tard.
+
+Parce que vous ne connaissez pas encore les kana, toutes les phrases seront aussi données
+en rômaji. Mais attention : c'est exceptionnel, et on les laissera de côté dès que
+possible !
+
+La phrase minimale en Japonais comporte uniquement un verbe. Cela forme une phrase qui ne
+voudra en général rien dire toute seule, mais elle peut avoir un sens lorsque mise dans un
+contexte. Voici un exemple :
+
+  *いく。*~
+  iku.
+
+Cette phrase ne comporte qu'un mot : le verbe いく qui veut dire /aller quelque part/,
+comme vous venez de l'apprendre. Comme aucune précision n'est donnée, alors il dépendra du
+contexte de savoir qui va quelque part, où est-ce qu'il va, etc. Cette phrase peut donc
+signifier : /j'y vais/, /il y va/, etc.
+
+\slide:Une phrase un peu plus détaillée
+Pour préciser qui, où, etc. on rajoute *avant le verbe* des informations supplémentaires,
+dont le rôle est précisé par une particule. Par exemple :
+
+  *｛私：わたし｝は｛東京：とうきょう｝へ{行：い｝く。*~
+  watashi wa toukyou e iku.
+
+On a rajouté ici deux informations à la phrase : la première, /watashi wa/, indique que
+c'est /watashi/ (je, moi) qui fait l'action. La particule /wa/ (s'écrit は (/ha/) mais se
+prononce en fait /wa/) sert à indiquer le *thème* de la phrase, et fait référence au mot
+qui la *précède*, comme toutes les particules.
+
+La deuxième information est /toukyou e/ : cela indique que je vais *à Tokyo* (/toukyou/ est
+la romanisation de {東京: とうきょう}, qui est le vrai mot japonais pour Tokyo). Nous avons
+donc une nouvelle particule, la particule /e/ (s'écrit へ (/he/) mais se prononce /e/), qui
+fait aussi référence au mot qui *la précède*, et qui indique donc la destination d'un
+déplacement.
+
+Les deux irrégularités de prononciations que nous venons de voir sont, avec une troisième
+pour la particule /wo/ (を) qui se prononce /o/, les *seules* irrégularités de prononciation
+du japonais. Vous devez les retenir.
+
+Par rapport à la particule /wa/, remarquez que celle-ci n'indique pas le *sujet* de la
+phrase comme ça serait le cas en Français, mais le *thème* de la phrase : cela signifie
+que ce n'est pas forcément la chose ou la personne indiquée par /wa/ qui *fait* l'action.
+On verra un exemple plus loins.
+
+\slide:L'état-d'être
+L'état-d'être est un nom barbare qui designe la façon dont on dit que quelque chose *est*
+en Japonais. L'état-d'être se place dans la phrase comme un *verbe*, et peut s'exprimer
+de plusieurs façons :
+
+Soit par rien du tout :
+  *｛私：わたし｝はアリス。*~
+  watashi wa arisu.~
+  /Je suis Alice./ (/arisu/ est la phonétisation de /Alice/)
+
+Soit par /da/ :
+  *｛私：わたし｝はシャルルだ。*~
+  watashi wa sharuru da.~
+  /Je suis Charles./ (/sharuru/ est la phonétisation de /Charles/)
+
+Remarquez que la première méthode (avec rien du tout) sonne plus féminine, alors que le
+/da/ déclaratif rajoute un ton masculin à la phrase. Cependant, vous n'êtes pas obligés
+d'utiliser ni l'une ni l'autre forme.
+
+\slide:Forme neutre et forme polie
+Il existe en Japonais plusieurs niveaux de politesse, qui globalement s'expriment selon
+les différentes conjuguaisons du verbe, donc de ce qu'on a à la fin de la phrase.
+
+Toues les phrases que nous avont présentées ci-dessus sont au style neutre. Ce style est
+adapté lorsque l'on parle à des gens avec qui l'on a une relation d'intimité, ou avec des
+gens qui nous sont inférieurs hiérarchiquement. C'est aussi la forme utilisée dans les
+livres, journeaux, ...
+
+La forme polie s'utilise pour parler aux inconnus et aux supérieurs hiérarchiques. Elle est
+aussi en général utilisée dans les lettres formelles. La forme polie est distinguable assez
+facilement : 
+
+D'une part, elle introduit une troisième façon d'exprimer l'état-d'être, la copule /desu/ :
+  *｛私：わたし}はアリスです。*~
+  watashi wa arisu desu.~
+  /Je suis Alice./ (forme polie)
+
+D'autre part, elle utilise une conjuguaison particulière des verbes, que l'on apprendra
+plus tard : la forme /-masu/. À moins de parler en articulant particulièrement ce qu'on
+dit, la copule /desu/ se prononce plus comme /dess/, et les verbes finissant en /-masu/ se
+prononcent /-mass/.
+
+Contrairement à la forme neutre qui varie un peu avec l'ajout ou non du /da/ déclaratif,
+la forme polie est la même pour le discours masculin et féminin.
+
+\slide:Particules de fin de phrase (gobi)
+Il existe aussi quelques particules particulières que l'on rajoute à la fin de la phrase
+pour leur donner une tonalité particulière. Ces particules sont appellées /gobi/.
+
+Le gobi /yo/ donne une tonalité affirmative à la phrase. On l'utilse quand on veut insister
+sur un point, ou quand on pense rajouter un élément nouveau à la discussion.
+  *フランスへ｛行：い｝くよ！*~
+  furansu e iku yo ! (furansu = phonétisation de /France/)~
+  /Tu sais quoi ? Je vais en France !/ (une traduction possible)
+
+Le gobi /ne/ cherche à avoir l'approbation du locuteur. Exemple :
+  *フランス｛語：ご｝ですね。*~
+  furansugo desu ne. (furansugo = la langue Française)~
+  /C'est du Français, n'est-ce pas ?/ (une traduction possible)
+
+Pour poser des questions, on peut rajouter la particule /ka/ à la fin de la phrase. Cela se
+fait systématiquement en style poli, mais pas forcément en style neutre.
+  *トイレはどこですか？*~
+  toire wa doko desu ka ? (toire = toilettes, doko = mot interrogatif /où/)~
+  /Où sont les toilettes ?/
+
+*Remarque :* En Japonais il n'y a pas d'articles. Cela signifie que dans l'expression /la
+France/, on ne traduit pas le mot /la/ et on dit uniquement /furansu/. De même, pour /les
+toilettes/, le mot /les/ n'a pas d'équivalents et on dit simplement /toire/. Cela n'empêche
+en général pas de comprendre la phrase.

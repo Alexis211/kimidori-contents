@@ -1,0 +1,15 @@
+{
+	"SRSGroups": {
+		"Kana": ["Hiragana", "Katakana"],
+		"Kanji": ["JLPT4", "JLPT3", "JLPT2", "JLPT1"],
+		"Vocabulaire": ["Guide de conversation", "JLPT4", "JLPT3", "JLPT2", "JLPT1"],
+		"Phrases": ["Guide de conversation", "JLPT4", "JLPT3", "JLPT2", "JLPT1"]
+	},
+	"Levels": ["Conversation", "Debutant", "JLPT4", "JLPT3", "JLPT2", "JLPT1"],
+	"DefaultLevel": "Debutant",
+	"Dictionaries": {
+		"edict-en": "dictionnaire général (anglais)",
+		"kanjidic-en": "dictionnaire de kanji (anglais)"
+	}
+}
+
