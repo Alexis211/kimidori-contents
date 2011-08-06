@@ -7,9 +7,12 @@
 	},
 	"Levels": ["Conversation", "Debutant", "JLPT4", "JLPT3", "JLPT2", "JLPT1"],
 	"DefaultLevel": "Debutant",
-	"Dictionaries": {
-		"edict-en": "dictionnaire général (anglais)",
-		"kanjidic-en": "dictionnaire de kanji (anglais)"
-	}
+	"Dictionaries": [
+		{
+			"Filename": "edict-en",
+			"Name": "dictionnaire général (anglais)",
+			"Format": "edict"
+		}
+	]
 }
 
