@@ -75,9 +75,9 @@ prennent le statut /en cours de lecture/. Une fois lue et comprise, vous pouvez 
 à intégrer les éléments de la leçon au système de mémorisation : son statut devient /en
 cours de mémorisation/. Lorsque vous avez suffisament révisé tout ce qu'il y a à apprendre
 (après plusieurs longues semaines), la partie de cours prend le statut /en cours de
-mémorisation, su/. Vous pouvez alors supprimer son contenu du système de mémorisation
+mémorisation, terminé/. Vous pouvez alors supprimer son contenu du système de mémorisation
 pour éviter d'avoir trops de choses à réviser, la partie de cours prend alors le statut
-/su/.
+/terminé/.
 
 \slide:Pratiquer l'oral
 Le programme Kimidori se focalise essentiellement sur la lecture et l'écriture du Japonais,
@@ -96,7 +96,8 @@ chose, pour habituer votre oreille à comprendre ce qu'il se passe et à discern
 
 \slide:Ressources
 
-- [http://jisho.org|Dictionnaire Japonais-Anglais très complet]
+- [http://jisho.org/] : Dictionnaire Japonais-Anglais très complet
 - [http://kanji.sljfaq.org/kanjivg.fr.html|Ordre de tracé des kanji]
 - [http://lang-8.com/], site communautaire dont le but est de vous entraîner à parler
   une langue
+- [http://www.nhk.or.jp/r-news/podcast/nhkradionews.xml|Le podcast NHK (radio en japonais)]

@@ -1,6 +1,20 @@
 Quelques notions de grammaire
 Nous allons étudier ici la structure basique des phrases en Japonais.
 
+\slide:Vocabulaire
+
+Parce que vous ne connaissez pas encore les kana requis, nous ne vous demandons pas encore
+d'apprendre les mots suivants.
+
+:#kanji#:#kana#:#romaji#:#mot#:
+:行く:いく:iku:aller quelque part:
+:私:わたし:watashi:je, moi (selon le contexte):
+:東京:とうきょう:toukyou:Tokyo:
+::フランス:furansu:France:
+:〜語:〜ご:~go:suffixe \: la langue parlé en ~:
+::トイレ:toire:toilettes:
+::どこ:doko:où (mot interrogatif):
+
 \slide:Structure de la phrase minimale
 Pour ce cours, nous avons décidé de commencer par des phrases basiques, minimales même, et
 puis nous allons ensuite aller en compliquant petit à petit. Nous ne commencerons donc pas
@@ -30,12 +44,11 @@ dont le rôle est précisé par une particule. Par exemple :
   watashi wa toukyou e iku.
 
 On a rajouté ici deux informations à la phrase : la première, /watashi wa/, indique que
-c'est /watashi/ (je, moi) qui fait l'action. La particule /wa/ (s'écrit は (/ha/) mais se
+c'est /watashi/ (moi) qui fait l'action. La particule /wa/ (s'écrit は (/ha/) mais se
 prononce en fait /wa/) sert à indiquer le *thème* de la phrase, et fait référence au mot
 qui la *précède*, comme toutes les particules.
 
-La deuxième information est /toukyou e/ : cela indique que je vais *à Tokyo* (/toukyou/ est
-la romanisation de {東京: とうきょう}, qui est le vrai mot japonais pour Tokyo). Nous avons
+La deuxième information est /toukyou e/ : cela indique que je vais *à Tokyo*. Nous avons
 donc une nouvelle particule, la particule /e/ (s'écrit へ (/he/) mais se prononce /e/), qui
 fait aussi référence au mot qui *la précède*, et qui indique donc la destination d'un
 déplacement.
@@ -44,7 +57,7 @@ Les deux irrégularités de prononciations que nous venons de voir sont, avec un
 pour la particule /wo/ (を) qui se prononce /o/, les *seules* irrégularités de prononciation
 du japonais. Vous devez les retenir.
 
-Par rapport à la particule /wa/, remarquez que celle-ci n'indique pas le *sujet* de la
+Concernant la particule /wa/, remarquez que celle-ci n'indique pas le *sujet* de la
 phrase comme ça serait le cas en Français, mais le *thème* de la phrase : cela signifie
 que ce n'est pas forcément la chose ou la personne indiquée par /wa/ qui *fait* l'action.
 On verra un exemple plus loins.
@@ -87,7 +100,9 @@ D'une part, elle introduit une troisième façon d'exprimer l'état-d'être, la 
   /Je suis Alice./ (forme polie)
 
 D'autre part, elle utilise une conjuguaison particulière des verbes, que l'on apprendra
-plus tard : la forme /-masu/. À moins de parler en articulant particulièrement ce qu'on
+plus tard : la forme /-masu/.
+
+*Remarque sur la prononciation :* À moins de parler en articulant particulièrement ce qu'on
 dit, la copule /desu/ se prononce plus comme /dess/, et les verbes finissant en /-masu/ se
 prononcent /-mass/.
 
@@ -101,18 +116,18 @@ pour leur donner une tonalité particulière. Ces particules sont appellées /go
 Le gobi /yo/ donne une tonalité affirmative à la phrase. On l'utilse quand on veut insister
 sur un point, ou quand on pense rajouter un élément nouveau à la discussion.
   *フランスへ｛行：い｝くよ！*~
-  furansu e iku yo ! (furansu = phonétisation de /France/)~
+  furansu e iku yo !~
   /Tu sais quoi ? Je vais en France !/ (une traduction possible)
 
 Le gobi /ne/ cherche à avoir l'approbation du locuteur. Exemple :
   *フランス｛語：ご｝ですね。*~
-  furansugo desu ne. (furansugo = la langue Française)~
+  furansugo desu ne.~
   /C'est du Français, n'est-ce pas ?/ (une traduction possible)
 
 Pour poser des questions, on peut rajouter la particule /ka/ à la fin de la phrase. Cela se
 fait systématiquement en style poli, mais pas forcément en style neutre.
   *トイレはどこですか？*~
-  toire wa doko desu ka ? (toire = toilettes, doko = mot interrogatif /où/)~
+  toire wa doko desu ka ?~
   /Où sont les toilettes ?/
 
 *Remarque :* En Japonais il n'y a pas d'articles. Cela signifie que dans l'expression /la
