@@ -1,0 +1,86 @@
+Se présenter en japonais
+Bon, ça y est, on commence !
+
+\slide:Dire bonjour et au-revoir
+
+Voilà donc les premiers mots que vous allez me faire le plaisir d'apprendre :
+
+\srs:Vocabulaire:Conversation:bonjour (le matin):ohayou gozaimasu: 
+  on peut dire simplement ohayou, mais c'est moins poli
+\srs:Vocabulaire:Conversation:bonjour (dans la journée):konnichiwa:
+  s'utilise à partir de 11h du matin
+\srs:Vocabulaire:Conversation:bonsoir:konbanwa::
+\srs:Vocabulaire:Conversation:au-revoir:sayounara::
+
+*Remarque sur la prononciation :* quand vous voyez /ou/ dans un mot, il s'agit en fait
+du /o/ long, que l'on écrit parfois aussi /ô/.
+
+\slide:Introduction d'une nouvelle personne
+
+Peut-être aurrez vous l'occasion de vous faire présenter à un japonais par quelqu'un
+d'autre. Dans ce cas, il est fort probable que cette personne utilise la phrase :
+
+\srs:Phrases:Conversation
+  et je vous présente ~
+  kochira wa ~ desu
+\srs:Phrases:Conversation
+  et je vous présente ~, employé d'IBM
+  kochira wa IBM no ~ desu
+  
+  (variante de "kochira wa ~ desu", plus complète)
+  
+Cela donne, par exemple :
+  /kochira wa chichi desu/ : et je vous présente mon père~
+  /kochira wa Google no dupon-san desu/ : et je vous présente M. Dupont, employé chez Google
+
+Profitons-en pour introduire le suffixe de politesse /-san/, qui indique que l'on
+a une relation formelle avec la personne désignée :
+\srs:Vocabulaire:Conversation
+  suffixe de politesse (Monsieur)
+  -san
+  
+  attention : ne s'utilise jamais pour parler de soi !
+
+Une fois qu'on vous a introduit dans la conversation, vous pouvez dire :
+\srs:Phrases:Conversation
+  enchanté de vous rencontrer
+  hajimemashite
+
+C'est à ce moment là que l'on attend que vous fassiez votre self-présentation. Une
+fois que vous avez fini, vous dites :
+\srs:Phrases:Conversation
+  veuillez bien vous occuper de moi
+  douzo yoroshiku onegai shimasu
+  
+  peut se raccourcir à "douzo yoroshiku", voir juste "yoroshiku" dans des cas non formels
+
+\slide:Dire des choses sur soi
+
+Nous allons apprendre ici quelques phrases simples que vous utiliserez probablement
+au moment de se présenter :
+
+\srs:Phrases:Conversation
+  je m'appelle ~
+  (watashi wa) ~ desu
+  
+  on peut se passer de "watashi wa" (qui précise que je parle de moi), car c'est implicite
+\srs:Phrases:Conversation
+  je viens de France
+  furansu kara kimashita
+\srs:Phrases:Conversation
+  j'habite en France
+  furansu ni sunde imasu
+\srs:Phrases:Conversation
+  je suis employé d'IBM
+  IBM no shain desu
+
+Vous pouvez remplacer /furansu/ par un autre pays : /itaria/ (Italie), /supein/ (Espagne),
+/igirisu/ (Angleterre), /amerika/ (États-unis), ...
+Pour en avoir d'autres, utilisez le dictionnaire.
+
+Voici donc un exemple de présentation complète :
+  *hajimemashite*~
+  *watashi wa arisu desu*~
+  *amerika kara kimashita*~
+  *Microsoft no shain desu*~
+  *douzo yoroshiku onegai shimasu*

@@ -1,6 +1,6 @@
 {
 	"Title": "Se présenter",
 	"Description": "Préparation au premier contact avec des Japonais : leur dire qui vous êtes.",
-	"Chunks": [],
+	"Chunks": ["Ce cours", "Le japonais", "Se presenter"],
 	"Deps": []
 }

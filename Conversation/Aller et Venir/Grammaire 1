@@ -1,0 +1,114 @@
+Grammaire fondamentale
+Notions fondamentales : ordre des mots, particules
+
+\slide:Quelques mots
+
+Ces mots nous serviront pour les exemples :
+\srs:Vocabulaire:Conversation:chat:neko::
+\srs:Vocabulaire:Conversation:pizza:piza::
+\srs:Vocabulaire:Conversation:tabac, cigarette:tabako::
+\srs:Vocabulaire:Conversation:saké, alcool:sake::
+\srs:Vocabulaire:Conversation:France:furansu::
+\srs:Vocabulaire:Conversation:Japon:nihon::
+\srs:Vocabulaire:Conversation:suffixe indiquant la nationalité:-jin::
+
+\slide:Dire que quelque chose est
+
+Nous allons prendre une structure de phrase très simple, et l'étudier :
+
+  *X1 wa X2 desu*~
+  X1 est X2
+
+Exemples :
+\srs:Phrases:Conversation
+  Je suis Alice.
+  watashi wa arisu desu.
+\srs:Phrases:Conversation
+  C'est M.Tanaka.
+  kare wa tanaka-san desu.
+
+Cette phrase comporte la particule /wa/, qui indique le *thème* de la phrase.
+Cette particule fait référence au nom qui la précède : ici, le thème de
+la phrase est donc *X1*. On verra plus tard que le thème de la phrase n'est
+pas tout à fait équivalent au /sujet/ comme dans en français.
+
+Cette phrase comporte ensuite la copule /desu/. Celle-ci sert prinicpalement
+à indiquer que l'on parle en style poli.
+
+= Forme négative
+
+  *X1 wa X2 ja arimasen*~
+  X1 n'est pas X2
+
+Exemple :
+\srs:Phrases:Conversation
+  Je ne suis pas un chat.
+  watashi wa neko ja arimasen.
+
+
+\slide:Parler d'actions
+
+Pour parler d'actions, on va utiliser des verbes. Le verbe se place toujours à
+la fin de la phrase.
+
+Mais on va aussi avoir besoin
+de nouvelles particules pour indiquer ce qui se passe. En voici quelques-unes :
+- /wa/ : indique le thème de la phrase
+- /o/ : indique l'objet
+- /e/ : indique la destination d'un déplacement (/ni/ peut aussi avoir ce rôle)
+- /de/ : indique le moyen ou le contexte d'une action
+Toutes ces particules font référence au nom qui les précède.
+
+Voici donc tout de suite quelques exemples :
+\srs:Phrases:Conversation
+  Je vais à la banque
+  watashi wa ginkou e ikimasu.
+\srs:Phrases:Conversation
+  Les français mangent avec une fourchette.
+  furansujin wa fooku de tabemasu.
+\srs:Phrases:Conversation
+  M. Tanaka boit du saké.
+  Tanaka-san wa sake o nomimasu.
+
+\slide:Conjugaison passée, conjugaison négative
+
+Comme vous l'avez vu, on ne conjugue pas le verbe selon la personne qui fait l'action.
+Cependant, on peut (et on doit) le conjuguer pour indiquer le temps et le mode
+de l'action. Voici un tableau récapitulatif :
+
+::#affirmatif#:#négatif#:#être affirmatif#:#ne pas être#:
+:#présent\/futur#:-masu:-masen:desu:ja arimasen:
+:#passé#:-mashita:-masen deshita:deshita:ja arimasen deshita:
+
+~
+Exemples :
+\srs:Phrases:Conversation
+  Alice ne fume pas.
+  arisu wa tabako o suimasen.
+\srs:Phrases:Conversation
+  Elle est allée à la bibliothèque.
+  kanojo wa toshokan e ikimashita.
+\srs:Phrases:Conversation
+  Les japonais ne mangent pas avec une fourchette.
+  nihonjin wa fooku de tabemasen.
+\srs:Phrases:Conversation
+  Je ne suis pas allé au Japon en train.
+  watashi wa densha de nihon e ikimasen deshita.
+
+
+\slide:Poser des questions
+
+Pour transformer une phrase en question, on rajoute /ka/ à la fin, et c'est tout.
+
+\srs:Phrases:Conversation
+  M.Tanaka, est-ce que vous buvez ?
+  tanaka-san wa sake o nomimasu ka ?
+
+On peut aussi utiliser des mots interrogatifs :
+
+\srs:Phrases:Conversation
+  Où allez-vous ?
+  doko e ikimasu ka ?
+
+Remarquez que dans la phrase interrogative, l'ordre des mots ne change pas. On se contente
+de rajouter /ka/ à la fin, et de remplacer les mots que l'on cherche par un mot interrogatif.

@@ -1,6 +1,6 @@
 {
 	"Title": "Aller et Venir",
 	"Description": "Un peu de grammaire, quelques phrases simples pour mettre tout ça en pratique.",
-	"Chunks": [],
+	"Chunks": ["Vocabulaire 1", "Vocabulaire 2", "Grammaire 1", "Grammaire 2", "Exemple"],
 	"Deps": []
 }
