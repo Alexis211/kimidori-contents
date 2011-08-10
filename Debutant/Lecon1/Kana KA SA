@@ -1,0 +1,116 @@
+Colonnes KA et SA des hiragana et des katakana
+On part tout de suite pour deux nouvelles rangées de kana !
+
+\slide:Rangée KA
+
+L'ordre de tracé affiché ici vient du projet [http://kanjivg.tagaini.net/|KanjiVG].
+D'autres versions plus détaillées sont disponnibles sur wikibooks :
+- [http://en.wikibooks.org/wiki/Japanese/Kana/Lessons/Hiragana/Lesson_2]
+- [http://en.wikibooks.org/wiki/Japanese/Kana/Lessons/Katakana/Lesson_2]
+
+
+== Le KA
+
+\class:sod
+  [!/media/sod/kana/h_ka.png]
+  [!/media/sod/kana/k_ka.png]
+\srs:Kana:Hiragana:ka:か::
+\srs:Kana:Katakana:ka:カ::
+
+Notez que le hiragana et le katakana se ressemblent, mais ce n'est pas le même caractère : il faut faire
+bien attention aux détails distinguant deux caractères semblables.
+
+== Le KI
+
+\class:sod
+  [!/media/sod/kana/h_ki.png]
+  [!/media/sod/kana/k_ki.png]
+\srs:Kana:Hiragana:ki:き::
+\srs:Kana:Katakana:ki:キ::
+
+Encore une fois, les deux se resemblent sans pour autant être identiques.
+
+== Le KU
+
+\class:sod
+  [!/media/sod/kana/h_ku.png]
+  [!/media/sod/kana/k_ku.png]
+\srs:Kana:Hiragana:ku:く::
+\srs:Kana:Katakana:ku:ク::
+
+== Le KE
+
+\class:sod
+  [!/media/sod/kana/h_ke.png]
+  [!/media/sod/kana/k_ke.png]
+\srs:Kana:Hiragana:ke:け::
+\srs:Kana:Katakana:ke:ケ::
+
+Remarquez que le ケ ressemble un peu au ク : on a souvent des katakana qui se ressemblent.
+Encore une fois, prêtez bien attention aux détails les distinguant : ケ se dessine avec trois traits
+alors que ク n'en a que deux.
+
+== Le KO
+
+\class:sod
+  [!/media/sod/kana/h_ko.png]
+  [!/media/sod/kana/k_ko.png]
+\srs:Kana:Hiragana:ko:こ::
+\srs:Kana:Katakana:ko:コ::
+
+\slide:Rangée SA
+
+L'ordre de tracé affiché ici vient du projet [http://kanjivg.tagaini.net/|KanjiVG].
+D'autres versions plus détaillées sont disponnibles sur wikibooks :
+- [http://en.wikibooks.org/wiki/Japanese/Kana/Lessons/Hiragana/Lesson_3]
+- [http://en.wikibooks.org/wiki/Japanese/Kana/Lessons/Katakana/Lesson_3]
+
+== Le SA
+
+\class:sod
+  [!/media/sod/kana/h_sa.png]
+  [!/media/sod/kana/k_sa.png]
+\srs:Kana:Hiragana:sa:さ::
+\srs:Kana:Katakana:sa:サ::
+Attention à ne pas confondre le さ avec le き.
+
+== Le SHI
+
+Attention : cette syllabe n'est pas /si/ mais /shi/.
+
+\class:sod
+  [!/media/sod/kana/h_shi.png]
+  [!/media/sod/kana/k_shi.png]
+\srs:Kana:Hiragana:shi:し::
+\srs:Kana:Katakana:shi:シ::
+
+== Le SU
+
+\class:sod
+  [!/media/sod/kana/h_su.png]
+  [!/media/sod/kana/k_su.png]
+\srs:Kana:Hiragana:su:す::
+\srs:Kana:Katakana:su:ス::
+
+== Le SE
+
+\class:sod
+  [!/media/sod/kana/h_se.png]
+  [!/media/sod/kana/k_se.png]
+\srs:Kana:Hiragana:se:せ::
+\srs:Kana:Katakana:se:セ::
+Encore une fois profitez des ressemblances mais faites attention à la différence :
+le せ se dessine avec trois traits alors que le セ n'en a que deux.
+
+== Le SO
+
+\class:sod
+  [!/media/sod/kana/h_so.png]
+  [!/media/sod/kana/k_so.png]
+\srs:Kana:Hiragana:so:そ::
+\srs:Kana:Katakana:so:ソ::
+
+  ~
+  Profitons-en pour vous présenter les quatre katakana qui vous poseront sans doute
+  le plus de problèmes :~
+  *シ shi, ツ tsu, ソ so, ン n*

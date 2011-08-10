@@ -1,12 +1,29 @@
 Colonne A des hiragana et des katakana
 Ça y est, ça commence vraiment !
 
+\slide:Vos premier kana !
+
+Nous allons dans cette leçon apprendre 5 hiragana et 5 katakana, ceux pour les syllabes
+suivantes : /a/, /i/, /u/, /e/, /o/.
+
+Pour les apprendre : recopiez-les sur papier plusieurs fois, puis essayez de les recopier
+par coeur. Vous pouvez utiliser le mode apprentissage pour vous aider à faire ça.
+
+Une fois que vous pensez les maîtriser correctement, choisissez l'option "Mémoriser" dans
+le sommaire pour intégrer les 10 nouveaux kana au système de mémorisation automatisé.
+
+L'ordre de tracé affiché ici vient du projet [http://kanjivg.tagaini.net/|KanjiVG].
+D'autres versions plus détaillées sont disponnibles sur wikibooks :
+- [http://en.wikibooks.org/wiki/Japanese/Kana/Lessons/Hiragana/Lesson_1]
+- [http://en.wikibooks.org/wiki/Japanese/Kana/Lessons/Katakana/Lesson_1]
+
 \slide:Le A
 
-Le hiragana pour le /a/ est le suivant :
-\srs:Kana:Hiragana:a:あ::
+\class:sod
+  [!/media/sod/kana/h_a.png]
+  [!/media/sod/kana/k_a.png]
 
-Le katakana est le suivant :
+\srs:Kana:Hiragana:a:あ::
 \srs:Kana:Katakana:a:ア::
 
 Votre exercice est d'apprendre et de mémoriser l'écriture de ces deux caractères.
@@ -16,35 +33,39 @@ fois de savoir les lire et les écrire, donc entrainez-vous !
 
 \slide:Le I
 
-Le hiragana pour le /i/ est le suivant :
-\srs:Kana:Hiragana:i:い::
+\class:sod
+  [!/media/sod/kana/h_i.png]
+  [!/media/sod/kana/k_i.png]
 
-Le katakana est le suivant :
+\srs:Kana:Hiragana:i:い::
 \srs:Kana:Katakana:i:イ::
 
 
 \slide:Le U
 
-Le hiragana pour le /u/ est le suivant :
-\srs:Kana:Hiragana:u:う::
+\class:sod
+  [!/media/sod/kana/h_u.png]
+  [!/media/sod/kana/k_u.png]
 
-Le katakana est le suivant :
+\srs:Kana:Hiragana:u:う::
 \srs:Kana:Katakana:u:ウ::
 
 
 \slide:Le E
 
-Le hiragana pour le /e/ est le suivant :
-\srs:Kana:Hiragana:e:え::
+\class:sod
+  [!/media/sod/kana/h_e.png]
+  [!/media/sod/kana/k_e.png]
 
-Le katakana est le suivant :
+\srs:Kana:Hiragana:e:え::
 \srs:Kana:Katakana:e:エ::
 
 
 \slide:Le O
 
-Le hiragana pour le /o/ est le suivant :
-\srs:Kana:Hiragana:o:お::
+\class:sod
+  [!/media/sod/kana/h_o.png]
+  [!/media/sod/kana/k_o.png]
 
-Le katakana est le suivant :
+\srs:Kana:Hiragana:o:お::
 \srs:Kana:Katakana:o:オ::
