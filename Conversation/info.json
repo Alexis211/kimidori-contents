@@ -1,5 +1,5 @@
 {
 	"Name": "Guide de conversation",
 	"Description": "Guide de conversation rapide pour les personnes pressées, qui ne veulent pas pratiquer un apprentissage approfondi du Japonais. On n'utilisera pas les écritures japonaises dans cette séction, uniquement l'alphabet habituel (appellé Rômaji). Cette section peut aussi intéresser les gens qui veulent apprendre de manière approfondie, avant de s'y mettre pour voir un peu à quoi ça ressemble.",
-	"Lessons": ["Presentation", "Aller et Venir", "Bien se comporter", "Nombres"]
+	"Lessons": ["Presentation", "Aller et Venir", "Nombres", "Bien se comporter"]
 }

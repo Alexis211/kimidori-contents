@@ -24,13 +24,16 @@ Exemples :
   Je suis Alice.
   watashi wa arisu desu.
 \srs:Phrases:Conversation
-  C'est M.Tanaka.
+  Lui, c'est M.Tanaka.
   kare wa tanaka-san desu.
 
 Cette phrase comporte la particule /wa/, qui indique le *thème* de la phrase.
 Cette particule fait référence au nom qui la précède : ici, le thème de
 la phrase est donc *X1*. On verra plus tard que le thème de la phrase n'est
-pas tout à fait équivalent au /sujet/ comme dans en français.
+pas tout à fait équivalent au /sujet/ comme dans en français. D'ailleurs, si
+c'est répétitif, on peut souvent se passer du thème, plutôt que de répéter
+sans cesse les pronoms /watashi/, /anata/ ou autre. En fait, il faut plutôt
+comprendre la particule /wa/ comme si elle voulait dire /quant à X1, c'est X2/.
 
 Cette phrase comporte ensuite la copule /desu/. Celle-ci sert prinicpalement
 à indiquer que l'on parle en style poli.
