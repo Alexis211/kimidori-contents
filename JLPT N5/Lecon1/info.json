@@ -1,0 +1,7 @@
+
+{
+	"Title": "Leçon 1",
+	"Description": "Aujourd'hui, vos premiers kanji !",
+	"Chunks": ["Kanji1-5", "Kanji6-10", "Kanji11-15", "Vocabulaire"],
+	"Deps": []
+}

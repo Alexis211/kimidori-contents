@@ -1,5 +1,5 @@
 {
-	"Levels": ["Conversation", "Debutant", "JLPT4", "JLPT3", "JLPT2", "JLPT1"],
+	"Levels": ["Conversation", "Debutant", "JLPT N5", "JLPT N4"],
 	"DefaultLevel": "Debutant",
 	"Dictionaries": [
 		{
