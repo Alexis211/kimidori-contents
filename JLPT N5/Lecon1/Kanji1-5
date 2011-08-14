@@ -40,11 +40,15 @@ trait.
 
 \class:sod
   [!/media/sod/kanji/jlptn5/2_nichi.gif]
-\srs:Kanji:JLPT N5:solei, jour:日:ひ、ーび、ーか；ニチ、ジツ:
+\srs:Kanji:JLPT N5:soleil, jour:日:ひ、ーび、ーか；ニチ、ジツ:
 
 \srs:Vocabulaire:JLPT N5:dimanche:日曜日:にちようび:
+Le kanji 曜 n'est pas au programme du JLPT N5, donc il n'est pas
+nécessaire de savoir l'écrire. Cependant, il est toujours mieux de
+savoir le lire, donc apprenez au moins à le reconnaitre dans les mots
+qu'il compose.
 
-Ce kanji sert aussi à compter les jours :
+Le kanji 日 sert aussi à compter les jours :
 \srs:Vocabulaire:JLPT N5:~eme jour du mois, pendant ~ jour:〜日:〜にち:
 On verra plus tard les exceptions de prononciation, en même
 temps que l'on apprendra les kanji pour les chiffres.
@@ -58,6 +62,7 @@ temps que l'on apprendra les kanji pour les chiffres.
 \srs:Vocabulaire:JLPT N5:pendant ~ mois:〜か月:〜かげつ:
 \srs:Vocabulaire:JLPT N5:le ~eme mois de l'année:〜月:〜がつ:
 \srs:Vocabulaire:JLPT N5:lune:月:つき:
+\srs:Vocabulaire:JLPT N5:lundi:月曜日:げつようび
 
 \slide:Kanji 4 : 年 (année)
 
@@ -72,7 +77,7 @@ temps que l'on apprendra les kanji pour les chiffres.
 
 \class:sod
   [!/media/sod/kanji/jlptn5/5_en.gif]
-\srs:Kanji:JLPT N5:cercle, rond ; yen:円:まる。い、まる；エン:
+\srs:Kanji:JLPT N5:cercle, rond ; yen:円:まる・い、まる；エン:
 
 \srs:Vocabulaire:JLPT N5:~ yen (monnaie):〜円:〜えん:
 \srs:Vocabulaire:JLPT N5:rond, circulaire:円い:まるい:adjectif
