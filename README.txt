@@ -10,7 +10,7 @@ Les niveaux sont les suivants :
   mots courants, nombres, quelques expressions (rômaji et kana)
   grammaire polie basique (rômaji et kana)
   en conclusion, savoir se présenter en Japonais
-- JLPT{4,3,2,1} :
+- JLPT{N5,N4,N3,...} :
   listes de kanji et de vocabulaire, plus ou moins thématiques
   pour les kanji, apprendre les radicaux avant (utiliser RTK) et les intégrer au SRS,
   même si ceux-ci sont à un niveau JLPT plus élevé
